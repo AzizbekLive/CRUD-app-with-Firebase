@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "383167786224",
+    "firebase_url": "https://fir-be9a1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-be9a1",
+    "storage_bucket": "fir-be9a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383167786224:android:0c4cde6346c904b71b6635",
+        "android_client_info": {
+          "package_name": "uz.gita.contact_app_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRrr7DHGnP9qQ-NnwrnmAOup6j-0WNBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383167786224:android:ac639528dca6beb31b6635",
+        "android_client_info": {
+          "package_name": "uz.gita.contactfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRrr7DHGnP9qQ-NnwrnmAOup6j-0WNBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383167786224:android:fea5325235aab8011b6635",
+        "android_client_info": {
+          "package_name": "uz.gita.firebase_curd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRrr7DHGnP9qQ-NnwrnmAOup6j-0WNBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383167786224:android:e474f745a2cf5a7b1b6635",
+        "android_client_info": {
+          "package_name": "uz.gita.firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRrr7DHGnP9qQ-NnwrnmAOup6j-0WNBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383167786224:android:46fc60a7b604e1661b6635",
+        "android_client_info": {
+          "package_name": "uz.gita.test_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRrr7DHGnP9qQ-NnwrnmAOup6j-0WNBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383167786224:android:7f1b4267cf9201261b6635",
+        "android_client_info": {
+          "package_name": "uz.gita.testcleanafb6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRrr7DHGnP9qQ-NnwrnmAOup6j-0WNBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383167786224:android:86d382cb9e51b1741b6635",
+        "android_client_info": {
+          "package_name": "uz.marupoov.contactappwithfirebaseb6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRrr7DHGnP9qQ-NnwrnmAOup6j-0WNBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

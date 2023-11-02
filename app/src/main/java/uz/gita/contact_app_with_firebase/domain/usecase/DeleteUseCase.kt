@@ -1,0 +1,1 @@
+package uz.gita.contact_app_with_firebase.domain.usecaseinterface DeleteUseCase {    operator fun invoke(id: String)}

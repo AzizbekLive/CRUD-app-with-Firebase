@@ -1,0 +1,1 @@
+package uz.gita.contact_app_with_firebase.data.modelsimport android.net.Uriimport java.io.Serializabledata class ContactParam(    val id: String,    val image: String,    val name: String,    val phone: String,) : Serializable

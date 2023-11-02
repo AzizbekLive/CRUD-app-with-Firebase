@@ -1,0 +1,1 @@
+package uz.gita.contact_app_with_firebase.domain.usecaseimport android.net.Uriinterface UpdateUseCase {    operator fun invoke(id: String,image: String, name: String, phone: String)}

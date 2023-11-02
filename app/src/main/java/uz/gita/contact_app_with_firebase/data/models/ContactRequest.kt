@@ -1,0 +1,1 @@
+package uz.gita.contact_app_with_firebase.data.modelsdata class ContactRequest(    val image: String,    val name: String,    val phone: String,)

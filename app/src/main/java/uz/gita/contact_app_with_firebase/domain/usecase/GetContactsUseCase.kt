@@ -1,0 +1,1 @@
+package uz.gita.contact_app_with_firebase.domain.usecaseimport kotlinx.coroutines.flow.Flowimport uz.gita.contact_app_with_firebase.data.models.ContactParaminterface GetContactsUseCase {    operator fun invoke(): Flow<Result<List<ContactParam>>>}
